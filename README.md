@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 Data Science | Machine Learning | AI Engineer<br>Welcome to my GitHub! I'm working as a Data Scientist in Customer Experiance Domain. My focus is on developing intelligent automation to reduce manual agent work and automate customer support using LLMs, Gen AI and Machine Learning. Working towards exploring and implementing the newest AI advancements.<br><br>🔥 About Me<br><br>🎓 Data Science & AI practitioner<br>🤖 Interested in NLP, LLMs, Deep Learning & MLOps<br>🧠 Love breaking down complex AI concepts into simple explanations<br>💼 Building skills through projects, learning roadmaps, and real-world applications 
-
+ 
 https://www.overleaf.com/project/691362b80ba386fed79141fd
 
 ## 🌐 Socials:            
