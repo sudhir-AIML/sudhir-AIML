@@ -3,7 +3,7 @@
 
 https://www.overleaf.com/project/691362b80ba386fed79141fd 
 
-## 🌐 Socials:            
+## 🌐 Socials:       
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhir-bishnoi-356aab1b0) [![Website](https://img.shields.io/badge/Sudhir_Bishnoi-%230077B5.svg?logoColor=Blue)](https://sudhir-bishnoi-fv49itc.gamma.site/)
 
 # 💻 Tech Stack:
