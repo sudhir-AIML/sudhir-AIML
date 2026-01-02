@@ -15,3 +15,14 @@ https://www.overleaf.com/project/691362b80ba386fed79141fd
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sudhir-AIML&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+quesions : 
+1. Since you have a lot of experiance in product and analytics domain and also experiance with leading data team. what are few qualities which separates really great candidates from good candidates.
+2. As you must be aware RBI recently put a lot of retrictions on how much of customer's personal data fintechs can keep and what are the means where they can use it. did Fibe face this challange as well. If yes, how did you guys change your strategy to meet RBI's requirements.
+3. User experiance is nice. App is smooth. There are no unnecessory things which are not relevent to the product which i loved. Went through chat bot as well, as much as i could conclude - it was a rule based chatbot and here must be flows relevent to each problem, which caters to 90% of queries with perfection but we can include a option for customers to tell us if his query is not there on chatbot. we can use that data tp develop additional flows or add new branches to existing flows.
+4. No bullshit, got a call from an agent at around 1 PM which is a lunch break time so the response rate of customers will be a bit higher than any other time.
+5. One additional point which i have is while taking employment details, i was asked to put in the address of my current employer. I want to know how is that relevent to the data collection part. As this can be a bit of dealbreaker or hickup while registering to the app
+
+
