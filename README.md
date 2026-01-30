@@ -32,4 +32,3 @@ Wishing the team and the company continued success ahead. I hope our paths cross
 
 Warm regards,  
 Sudhir Bishnoi
-
