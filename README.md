@@ -16,6 +16,19 @@
 [![](https://visitcount.itsvg.in/api?id=sudhir-AIML&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+Subject: Thank You & Farewell
 
+Dear Team,
+
+As I move on to my next chapter, I want to sincerely thank everyone for the support and opportunities during my time here.
+
+This being my first job out of college, I’ve learned a great deal and grown both personally and professionally. I’m truly grateful for the experiences and the amazing people I got to work with.
+
+A special thanks to [Name 1], [Name 2], and [Name 3] for always being there whenever I needed guidance or support — it really meant a lot to me.
+
+Wishing the team and the company continued success ahead. Hope our paths cross again in the future.
+
+Warm regards,  
+Sudhir Bishnoi
 
 
