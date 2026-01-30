@@ -16,19 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=sudhir-AIML&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-Subject: Thank You & Goodbye
-
-Dear Team,
-
-As I prepare to move on to the next chapter of my journey, I wanted to take a moment to say a heartfelt thank you to everyone here.
-
-This was my first job right out of college, and I couldn’t have asked for a better place to start my professional career. The learning, exposure, and experiences I’ve gained here have played a huge role in shaping the learnings I carry forward today. I’m truly grateful for the opportunities, trust, and support I received along the way.
-
-I’d especially like to thank [Name 1], [Name 2], and [Name 3] for always being there for me whenever I needed guidance or support. Your mentorship, encouragement, and belief in me made a real difference, and I’ll always appreciate that.
-
-Working with such talented and supportive people has been a privilege, and I’ll genuinely miss the collaboration, conversations, and camaraderie we shared. I leave with a lot of gratitude, great memories, and valuable lessons that I’ll carry with me throughout my career.
-
-Wishing the team and the company continued success ahead. I hope our paths cross again in the future.
-
-Warm regards,  
-Sudhir Bishnoi
+https://www.linkedin.com/in/sudhir-bishnoi-356aab1b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
