@@ -16,4 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=sudhir-AIML&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-https://www.linkedin.com/in/sudhir-bishnoi-356aab1b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+https://www.linkedin.com/in/sudhir-bishnoi-356aab1b0
